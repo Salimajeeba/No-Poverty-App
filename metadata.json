@@ -1,0 +1,8 @@
+{
+  "name": "Zero Hunger Connect",
+  "description": "A food sharing platform designed to bridge the gap between food waste and hunger. Connect donors, NGOs, and volunteers to achieve SDG 2: Zero Hunger.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
